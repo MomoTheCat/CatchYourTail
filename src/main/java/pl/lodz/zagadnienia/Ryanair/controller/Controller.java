@@ -6,9 +6,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import pl.lodz.zagadnienia.Ryanair.model.FlightBookingSelector;
 
-import java.io.IOException;
-
-
 
 /**
  * Created by szymo on 10/03/2016.

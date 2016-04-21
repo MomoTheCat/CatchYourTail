@@ -2,6 +2,9 @@
 
 ###import Postman: https://www.getpostman.com/collections/90094fa0f2809683f33f
 
+Wyszukiwanie tanich lotów. Obejmuje to korzystanie z API Ryanair by uzyskać dostęp do cen oraz dat wylotów. Zaplanowany jest również web scrapping strony WIZZ AIR, by uzyskać ten same informacje. 
+Przykładowe użycie: Mam wolne 5 dni w pracy i chcę spędzić miło ten czas za granicą. Wpisuję daty graniczne wraz z marginesem (+-0/1/3 dni) . Miejsce wylotu (miasto lub jedynie kraj) i klikamy wyszukaj. Program znajduje najtańsze połączenia lotnicze w danym okresie czasu. Voilà możemy już szukać noclegów :)
+
 ##Ryanair:
 
 -https://gist.github.com/smcelhinney
