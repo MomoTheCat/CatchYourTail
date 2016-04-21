@@ -1,11 +1,8 @@
 package pl.lodz.zagadnienia.Ryanair.model;
 
-import lombok.Builder;
-
 /**
  * Created by szymo on 11/03/2016.
  */
-@Builder
 public class Airports {
 
     private String iataCode;
