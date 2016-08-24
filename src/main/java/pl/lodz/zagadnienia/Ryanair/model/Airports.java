@@ -12,6 +12,8 @@ public class Airports {
     private double longitude;
     private Country country;
 
+    public Airports(){}
+
     public Airports(String iataCode, String name, boolean base, double latitude, double longitude, Country country) {
         this.iataCode = iataCode;
         this.name = name;

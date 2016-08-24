@@ -13,6 +13,8 @@ public class Country {
     private String currency;
     private String url;
 
+    public Country(){}
+
     public Country(String code, String name, String seoName, String englishSeoName, String currency, String url) {
         this.code = code;
         this.name = name;
